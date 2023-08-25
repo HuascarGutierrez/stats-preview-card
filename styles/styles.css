@@ -23,9 +23,9 @@ body{
     width: 80vw;
     height: 70vh;
 }
-.presentation{
-    height: 50vh;
-    width:50wh;
+.description{
+    height: 100%;
+    width:50%;
 }
 .picture{
     display: flex;
