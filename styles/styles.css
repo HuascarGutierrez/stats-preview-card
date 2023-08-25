@@ -7,5 +7,30 @@
     --Slightly-transparent-white: hsla(0, 0%, 100%, 0.6);
     --Font-size: 15px;
     font-family: 'Inter','Lexend Deca';
-    
+}
+body{
+    background-color: var(--Very-dark-blue);
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page {
+    display: flex;
+    background-color: var(--Dark-desaturated-blue);
+    width: 80vw;
+    height: 70vh;
+}
+.presentation{
+    height: 50vh;
+    width:50wh;
+}
+.picture{
+    display: flex;
+
+}
+.page img{
+
 }
